@@ -6,4 +6,4 @@ The sayHello method console logs the animal's sound.
 
 setTimeout has been called 6 different ways at the bottom of the file. The intention is for "meow" to be logged to the console 3 seconds after the code is run. 
 
-Which invocations worked as expected and which do not? Why?
+Which invocations work as expected and which do not? Why?
